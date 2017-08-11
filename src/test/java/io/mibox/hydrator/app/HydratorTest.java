@@ -1,5 +1,6 @@
-package io.mibox.hydrator;
+package io.mibox.hydrator.app;
 
+import io.mibox.hydrator.Hydrator;
 import org.junit.Assert;
 
 /**

@@ -1,4 +1,4 @@
-package io.mibox.hydrator;
+package io.mibox.hydrator.app;
 
 /**
  * Created by felipe on 11/08/17.
